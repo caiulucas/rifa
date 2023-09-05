@@ -17,6 +17,9 @@ const config: Config = {
         yellow: {
           900: '#4D3700'
         }
+      },
+      width: {
+        200: '720px'
       }
     }
   },
