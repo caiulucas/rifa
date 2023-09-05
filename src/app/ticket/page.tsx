@@ -35,7 +35,7 @@ export default function Home() {
     <main className="flex flex-col items-center w-full">
       <div className="w-200 bg-white gap-4" id="ticket">
         <Image src={TicketImage} alt="ticket image" width={720} height={720} />
-        <div className="flex flex-col p-4 gap-3 text-2xl">
+        <div className="flex flex-col p-4 gap-3 text-3xl">
           <div className="flex gap-2">
             <span className="font-bold text-yellow-900">N°: </span>
             <p>{number}</p>
